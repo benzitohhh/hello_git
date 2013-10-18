@@ -1,2 +1,1 @@
-LOCAL remote something local ynah
-
+LOCAL remote something local ynah REMOTE
